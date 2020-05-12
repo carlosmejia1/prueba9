@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace prueba9
 {
+
     public class Class1
-    {
+    { }
     }
 }
